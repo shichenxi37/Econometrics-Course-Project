@@ -1,6 +1,5 @@
 ## Project Description
 
-___
 This is a project for an undergraduate Econometrics course. The goal of the project is to test the relationship between idiosyncratic skewness and expected return for all stocks in the Chinese A-share market. The regression model used is Fama-macbeth regression.
 
 ## Project details
